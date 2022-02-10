@@ -1,4 +1,3 @@
-from contextlib import redirect_stderr
 from genericpath import exists
 import requests as req, sys, os
 from bs4 import BeautifulSoup as BS
